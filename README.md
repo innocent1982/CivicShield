@@ -1,6 +1,6 @@
-# N/A
+# CivicShield
 
-**N/A** is a community-driven crime reporting platform where citizens can report incidents and law enforcement authorities can respond. It bridges communities and authorities to improve safety, accountability, and transparency.
+**CivicShield** is a community-driven crime reporting platform where citizens can report incidents and law enforcement authorities can respond. It bridges communities and authorities to improve safety, accountability, and transparency.
 
 ## Features
 
@@ -33,5 +33,5 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crimeconnect.git
+git clone https://github.com/yourusername/civicshield.git
 cd crimeconnect
